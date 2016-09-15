@@ -14,8 +14,8 @@ Denna beskrivning av livsmedelskontroller som är separat från kontrollmyndighe
 ## Öppna data
 Öppna data är data som är...
 
-* Maskinläsbar - det är alltså data som en programmerare kan använda för att bygga nya applikationer, eller som kan analyseras och samköras med andra datakällor. 
-* Fritt tillgänglig - det finns inga begränsningar på vem som får använda datan och vad de får göra
+* *Maskinläsbar* - det är alltså data som en programmerare kan använda för att bygga nya applikationer, eller som kan analyseras och samköras med andra datakällor. 
+* *Fritt tillgänglig* - det finns inga begränsningar på vem som får använda datan och vad de får göra
 
 Fördelarna med öppna data är att det gör det möjligt för data att spridas till nya målgrupper (via de nya applikationer som använder den öppna datan) och användas på nya sätt (tex nya analyser av journalister). 
 

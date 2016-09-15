@@ -19,8 +19,8 @@ codeurl: ''
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['doc', 'Dokumentation'],
-    ['tut', 'Tutorial'],
+    ['doc', 'Dataformat'],
+    ['misc', 'Övrigt'],
     ['ref', 'Reference'],
     ['dev', 'Developers'],
     ['post', 'Posts']

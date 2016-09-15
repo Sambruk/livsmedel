@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Versioner"
-category: doc
+category: misc
 date: 2016-09-02 14:03:54
 order: 5
 ---
