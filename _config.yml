@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
 title: 'Livsmedelskontroller som öppna data'
-subtitle: 'v0.8'
+subtitle: 'v1.0'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
