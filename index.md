@@ -12,10 +12,13 @@ Fokus ligger på att göra översiktlig data tillgänglig, ej på att tillgängl
 Denna beskrivning av livsmedelskontroller som är separat från kontrollmyndigheters krav på att rapportera livsmedelskontrollstatistik till Livsmedelsverket. Med det sagt så är stora delar är denna specifikation anpassad till hur leverantörer av system för livsmedelskontroller redan idag rapporterar data till Livsmedelsverket. Detta för att göra denna specifikation så enkel som möjligt för dessa systemleverantörer att implementera, vilket i sin tur leder till mer tillgänglig data. För att inte skapa merarbete för individuella livsmedelsinspektörer så är det rekommenderat att systemleverantörer automatiserar så stora delar som möjligt av framtagandet av detta dataformat.
 
 ## Öppna data
-Öppna data är data som är...
-
-* *Maskinläsbar* - det är alltså data som en programmerare kan använda för att bygga nya applikationer, eller som kan analyseras och samköras med andra datakällor. 
-* *Fritt tillgänglig* - det finns inga begränsningar på vem som får använda datan och vad de får göra
+Öppna data är digital information som vem som helst får använda för vilket syfte som helst utan avgifter eller andra fromer av inskränkningar. Öppna data ska vara:
+* Komplett
+* Aktuell
+* I ett öppet och sökbart format
+* Fritt tillgänglig
+* Maskinläsbar – Så att en programmerare kan nyttja data till att bygga applikationer eller att data kan analyseras och samköras med andra datakällor.
+* Fri från registreringskrav och licenskrav
 
 Fördelarna med öppna data är många: *ökad insyn, genererar nya affärsmodeller, skapar bättre förutsättningar för näringsliv och driver utveckling- & kvalitetsarbete framåt. Några nyttor som kan realiseras genom livsmedelskontroller som öppna data är*:
 
